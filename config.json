@@ -1,0 +1,13 @@
+{
+  "api_id": 38807867,
+  "api_hash": "03bb3b5299bb295fe0f27dbb8a6fd0f7",
+  "phone": "+998990515147",
+  "bot_token": "8022365744:AAGdn9yfKuzLf1nHBzBVss_qhXQ06eJ1KkA",
+  "target_channel": -1003687575644,
+  "admin_ids": [
+    5996676608
+  ],
+  "forward_to_channels": [
+    -1003687575644
+  ]
+}
